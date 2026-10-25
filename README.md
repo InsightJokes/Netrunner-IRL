@@ -21,6 +21,8 @@
 - Steps look slightly different depending on your Android version or phone brand (Samsung, Pixel, etc.), but the idea is the same: allow the downloader app to install APKs, then open the file.
 
 #Netrunner-IRL
+
 or on the web here
+
 ⬇️⬇️⬇️
 https://netrunnerirl.neocities.org/
